@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ChatGPT Plus官方推荐新手教程</title>
+  
+  
+  <link href="http://chatgpt-plus.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://chatgpt-plus.github.io/"/>
+  <updated>2023-03-15T15:26:50.002Z</updated>
+  <id>http://chatgpt-plus.github.io/</id>
+  
+  <author>
+    <name>AI理性派思考者</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ChatGPT Plus用户抢先体验强大的GPT-4</title>
+    <link href="http://chatgpt-plus.github.io/gpt-4/"/>
+    <id>http://chatgpt-plus.github.io/gpt-4/</id>
+    <published>2023-03-15T10:46:26.000Z</published>
+    <updated>2023-03-15T15:26:50.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    
+    
+    <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
+    
+    <category term="Depay" scheme="http://chatgpt-plus.github.io/tags/Depay/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Depay虚拟卡绑定ChatGPT以及微信、支付宝等使用场景和建议</title>
+    <link href="http://chatgpt-plus.github.io/depay-card/"/>
+    <id>http://chatgpt-plus.github.io/depay-card/</id>
+    <published>2023-03-04T04:45:38.000Z</published>
+    <updated>2023-03-08T10:28:35.643Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Depay" scheme="http://chatgpt-plus.github.io/categories/Depay/"/>
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="Depay" scheme="http://chatgpt-plus.github.io/tags/Depay/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内ChatGPT API Key申请使用及虚拟信用卡充值教程</title>
+    <link href="http://chatgpt-plus.github.io/chatgpt-api-key/"/>
+    <id>http://chatgpt-plus.github.io/chatgpt-api-key/</id>
+    <published>2023-03-03T13:32:29.000Z</published>
+    <updated>2023-03-08T10:18:41.017Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    
+    
+    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内开通Chat GPT Plus保姆级教程【典藏】</title>
+    <link href="http://chatgpt-plus.github.io/chatgpt-plus/"/>
+    <id>http://chatgpt-plus.github.io/chatgpt-plus/</id>
+    <published>2023-02-09T12:41:45.000Z</published>
+    <updated>2023-03-18T02:18:54.262Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内注册一个属于自己的免费ChatGPT账号【附常见问题解决】</title>
+    <link href="http://chatgpt-plus.github.io/chatgpt/"/>
+    <id>http://chatgpt-plus.github.io/chatgpt/</id>
+    <published>2023-02-05T02:13:54.000Z</published>
+    <updated>2023-03-06T12:08:30.570Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+  </entry>
+  
+</feed>
